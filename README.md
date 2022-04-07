@@ -9,6 +9,5 @@ Most of my previous work has focused on machine learning systems, where I’ve s
 I received my bachelors in technology from [Sreenidhi institute of science and technology](https://Sreenidhi.edu.in) specialising in Information Technology. In terms of academic specialties, I spend a lot of my time in the fields of Science and Technology Studies, Computer-Supported Cooperative Work.  I often use more statistical forms of analysis to contextualise and further support more qualitative approaches, frequently collaborating with people from other disciplines without any boundaries. I frequently speak at conferences and events bout my research and also about computers and their capabilities, and I also contribute to open source projects with various groups, organisations, and companies.
 
 <p align="center">
-  <a href="https://www.instagram.com/ai.brain/"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram"></a>
   <a href="https://twitter.com/rohithpudari"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter"></a>
 </p>
