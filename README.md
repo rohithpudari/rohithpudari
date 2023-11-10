@@ -1,7 +1,7 @@
 <!--
 **Rohith-hacker/Rohith-hacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Hi! I’m Rohith, a computer science grad student working on [software engineering problems](https://en.wikipedia.org/wiki/Software_engineering) with [machine learning](https://en.wikipedia.org/wiki/Machine_learning) at [University of Toronto](https://utoronto.ca).I am supervised by [Prof. Shurui Zhou](https://www.eecg.utoronto.ca/~shuruiz/)
+Hi! I’m Rohith, a computer science grad student working on [software engineering problems](https://en.wikipedia.org/wiki/Software_engineering) with [machine learning](https://en.wikipedia.org/wiki/Machine_learning) at [University of Toronto](https://utoronto.ca). I am supervised by [Prof. Shurui Zhou](https://www.eecg.utoronto.ca/~shuruiz/)
 
 I try to make computers as intelligent as humans. My ideal world would be computers helping humans in every way to make every human life on earth (for now just earth) as pleasant as possible. I empirically study how we know what we know, using qualitative, quantitative, and computational methods to holistically investigate the computer systems that support the production of knowledge with the help of Data. I have a particular focus on Open tech communities and institutions, such as open source software (eg: [Tensorflow](http://tensorflow.org), [Pytorch](http://pytorch.org)), scientific research and publications, peer production platforms(eg: [stackoverflow](https://stackoverflow.com)), and social media sites.
 
